@@ -149,5 +149,5 @@ MITRE ATT&CK Mapping:
 ## Author
 
 Mihai-Denis Taplagea
-SOC Analyst Portfolio
+Security Analyst Portfolio
 April 2026
